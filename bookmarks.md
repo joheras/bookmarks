@@ -1,1 +1,1 @@
-- [Training Tiny Language Models with Token Hashing | by David Mezzetti | NeuML | Medium](https://medium.com/neuml/training-tiny-language-models-with-token-hashing-b744aa7eb931)
+#Tecnologia #programcion - [Training Tiny Language Models with Token Hashing | by David Mezzetti | NeuML | Medium](https://medium.com/neuml/training-tiny-language-models-with-token-hashing-b744aa7eb931)
